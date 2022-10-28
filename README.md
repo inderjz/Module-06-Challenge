@@ -5,3 +5,7 @@ This app is a weather dashboard that will give you the 5-day Forecast for a city
 ## Deployed Link
 
 
+
+## Landing Page
+
+When you deploy the application 
