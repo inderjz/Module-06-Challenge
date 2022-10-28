@@ -4,7 +4,7 @@ This app is a weather dashboard that will give you the 5-day Forecast for a city
 
 ## Deployed Link
 
-
+https://glittery-sable-27ae69.netlify.app/
 
 ## Landing Page
 
