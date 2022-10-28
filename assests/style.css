@@ -6,6 +6,12 @@
     
 }
 
+.h1{
+    font-style: italic;
+    font-family: 'Josefin Sans', sans-serif;
+    background-image: url(../assests/img/pic1.jpeg);
+    font-weight: 600;
+
 h2, h3 {
     padding-top: 10px;
     font-weight: 500;
